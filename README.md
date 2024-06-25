@@ -1,3 +1,5 @@
+HIDE WINDOWS PROCESS PROJECT
+
 This program consists of 2 code segments. 
 The first one injects into the taskmgr.exe process and ensures the initiation of the second DLL code. 
 The second code, as an example, finds 'notepad.exe' and manipulates taskmgr.exe to hide the notepad.exe process. 
